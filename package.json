@@ -1,0 +1,27 @@
+{
+  "name": "haddon_house_backend",
+  "version": "1.0.0",
+  "description": "Server Side of Haddon House Project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHFTechHelp/Haddon_House_backend.git"
+  },
+  "author": "Robby Dore, Dave Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DHFTechHelp/Haddon_House_backend/issues"
+  },
+  "homepage": "https://github.com/DHFTechHelp/Haddon_House_backend#readme",
+  "dependencies": {
+    "assert": "1.4.1",
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "mongodb": "2.2.30",
+    "mustache-express": "1.2.5",
+    "nodemon": "1.11.0"
+  }
+}
